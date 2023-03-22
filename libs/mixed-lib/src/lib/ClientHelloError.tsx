@@ -1,4 +1,4 @@
-// Toggle to make error dissapear
+// Toggle 'use client' to make error disappear
 // 'use client'
 
 import {useState} from "react";
